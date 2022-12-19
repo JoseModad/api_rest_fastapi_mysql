@@ -1,4 +1,4 @@
-Small crud practice in fastapi with use of sql database
+Small crud practice in fastapi with use of sql database.
 
 You must have a sql database installed(phpmyadmin, xampp, etc).
 
